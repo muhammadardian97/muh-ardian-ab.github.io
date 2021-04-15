@@ -1,6 +1,6 @@
 # Web Porto
 
-Welcome to **your** repository of my Web Porto https://muhardianab.github.io/muh-ardian.github.io/
+Welcome to repository of my Web Porto https://muhardianab.github.io/muh-ardian.github.io/
 
 This website hasn't done and still on process.
 
